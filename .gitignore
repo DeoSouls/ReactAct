@@ -4,4 +4,4 @@ node_modules/
 # testing
 
 # files dist
-*.dist
+/dist/
